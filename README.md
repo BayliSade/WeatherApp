@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## About this App
 
-This app is a simple weather app made with React and bootstrap. You simple enter in the location of your choosing to find the tempature as well as some other statistics of that area for the day.
+This app is a simple weather app made with React and bootstrap. You simply enter in the location of your choosing to find the tempature as well as some other statistics of that area for the day.
 
 ## Available Scripts
 
